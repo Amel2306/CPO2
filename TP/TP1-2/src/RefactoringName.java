@@ -1,0 +1,7 @@
+public enum RefactoringName {
+    RENAME,
+    EXTRACT_CLASS,
+    EXTRACT_METHOD,
+    ENCAPSULATED_FIELD,
+    INLINE, MOVE_METHOD
+}
